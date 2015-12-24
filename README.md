@@ -1,5 +1,8 @@
 bootstrap-slider [![Build Status](https://travis-ci.org/seiyria/bootstrap-slider.png?branch=master)](https://travis-ci.org/seiyria/bootstrap-slider)
+http://seiyria.com/bootstrap-slider/
 ================
+
+
 Originally began as a loose "fork" of bootstrap-slider found on http://www.eyecon.ro/ by Stefan Petre.
 
 Over time, this project has diverged sigfinicantly from Stefan Petre's version and is now almost completly different.
